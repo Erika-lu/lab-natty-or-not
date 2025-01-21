@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+[# Título do Projeto: Reforma Tributária de 2024: O Que Mudou nas Obrigações Tributárias Acessórias Municipais
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Em 2024, o Brasil sancionou a Lei nº 14.586, uma reforma tributária aguardada com grandes expectativas. O objetivo da reforma foi simplificar e reorganizar o sistema tributário nacional, e as mudanças afetaram diretamente as **Obrigações Tributárias Acessórias Municipais**. A transformação foi significativa, especialmente no que diz respeito ao processo de digitalização e unificação das regras, facilitando a vida dos contribuintes, mas exigindo atenção para o prazo de adaptação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **IA Generativa ChatGPT** para roteirização;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi criado com o objetivo de explicar as mudanças de forma simples e objetiva. A principal abordagem foi comparar o processo tributário com uma "estrada", usando analogias acessíveis para garantir que o público-alvo (contribuintes e empresas) entendesse as novidades sem complicação. A revisão das regras e o impacto na digitalização foram explicados de forma a dar clareza sobre os benefícios e desafios que surgem com a reforma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A Reforma Tributária de 2024 trouxe mais **organização e previsibilidade** ao sistema tributário municipal, especialmente no que diz respeito ao **ISS**. A digitalização das obrigações e a unificação das alíquotas facilitaram a vida das empresas, embora o processo de adaptação demande tempo e planejamento. Com dois anos até a implementação completa das novas regras, os contribuintes têm uma oportunidade de se ajustar, evitando surpresas e multas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo 'natty' com IA envolve um equilíbrio entre a simplificação do conteúdo e a entrega de informações técnicas relevantes. A reforma tributária é um tema complexo, mas a IA foi eficaz em tornar o assunto mais acessível, mantendo a clareza e o foco no que mais impacta os contribuintes.
